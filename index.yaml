@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  testudo-chart:
+  - apiVersion: v2
+    appVersion: v1.0.0
+    created: "2026-05-25T09:08:54.967626209Z"
+    description: A Helm chart for deploying Testudo disaster recovery platform components,
+      including operator, server and web interface.
+    digest: 0994344dd871f7c73d2cffd396b8c5837349ab16dfaa3fe77a89be9b26424068
+    name: testudo-chart
+    type: application
+    urls:
+    - https://chen102.github.io/myhelmchart-test/testudo-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2026-05-25T09:08:54.964549017Z"
